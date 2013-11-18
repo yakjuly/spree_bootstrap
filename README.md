@@ -14,8 +14,10 @@ Installation
 
 Add spree_bootstrap to your Gemfile:
 
+support spree 2-1-stable
+
 ```ruby
-gem 'spree_bootstrap', github: 'jdutil/spree_bootstrap'
+gem 'spree_bootstrap', github: 'yakjuly/spree_bootstrap'
 ```
 
 Bundle your dependencies and run the installation generator:
